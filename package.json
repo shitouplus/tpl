@@ -1,0 +1,29 @@
+{
+  "name": "tpl",
+  "version": "1.0.0",
+  "description": "Template manager can help you easy and fast to create file",
+  "bin": "./bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shitouplus/tpl.git"
+  },
+  "keywords": [
+    "tpl",
+    "template"
+  ],
+  "author": "Shitouplus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shitouplus/tpl/issues"
+  },
+  "homepage": "https://github.com/shitouplus/tpl",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "inquirer": "^8.2.0",
+    "open": "^8.4.0"
+  },
+  "engines": {
+    "node": ">=8.5.0"
+  }
+}
