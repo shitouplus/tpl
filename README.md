@@ -3,7 +3,7 @@ tpl -- Template manager
 
 [![tpl](https://img.shields.io/npm/v/tpl-manager)](https://github.com/shitouplus/tpl)
 
-`tpl` can help you use template to create file,
+`tpl` can help you easily create files using templates
 
 
 ## Install
