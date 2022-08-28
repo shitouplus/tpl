@@ -1,8 +1,10 @@
 {
   "name": "tpl-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Template manager can help you easy and fast to create file",
-  "bin": "./bin/index.js",
+  "bin": {
+    "tpl": "./bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:shitouplus/tpl.git"

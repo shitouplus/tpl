@@ -5,6 +5,7 @@ const PKG = require('../package.json');
 const { program } = require('commander');
 
 program
+  .description(PKG.description)
   .version(PKG.version);
 
 program

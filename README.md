@@ -1,7 +1,7 @@
 tpl -- Template manager
 ===
 
-[![NPM version][npm-image]][npm-url]
+[![tpl](https://img.shields.io/npm/v/tpl-manager)](https://github.com/shitouplus/tpl)
 
 `tpl` can help you use template to create file,
 
