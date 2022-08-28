@@ -3,17 +3,17 @@ tpl -- Template manager
 
 [![tpl](https://img.shields.io/npm/v/tpl-manager)](https://github.com/shitouplus/tpl)
 
-`tpl` can help you easily manage templates. You can use this tool to create templates from files, or create files from templates.
+`tpl` 可以帮助您轻松管理模板。 您可以使用此工具从文件创建模板，或者从模板创建文件。
 
-English | [简体中文](./README-zh_CN.md)
+[English](./README.md) | 简体中文
 
-## Install
+## 安装
 
 ```
 $ npm install tpl-manager -g
 ```
 
-## Example
+## 示例
 ```
 $ tpl ls
 
@@ -28,7 +28,7 @@ $ tpl use README.md
 
 ```
 
-## Usage
+## 使用
 
 ```
 Usage: tpl [options] [command]
@@ -49,9 +49,9 @@ Commands:
 ```
 
 
-## Thanks
+## 致谢
 
-Inspired by [nrm](https://github.com/Pana/nrm), Implement a template management command line tool to save frequently used files as templates for use in other projects.
+受 [nrm](https://github.com/Pana/nrm) 启发，实现一个模板管理命令行工具，方便将常用文件保存为模板，便于在其它项目中使用。
 
 
 
