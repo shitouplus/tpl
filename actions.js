@@ -14,7 +14,7 @@ const {
   exit
 } = require('./helpers');
 
-const Directory = path.resolve('./templates');
+const Directory = path.resolve(__dirname, './templates');
 
 async function onList() {
   const templates = await getTemplates(Directory);
