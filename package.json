@@ -1,6 +1,6 @@
 {
   "name": "tpl-manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Template manager can help you easy and fast to create file",
   "bin": {
     "tpl": "./bin/index.js"
