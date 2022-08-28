@@ -1,13 +1,15 @@
 tpl -- Template manager
 ===
 
+[![NPM version][npm-image]][npm-url]
+
 `tpl` can help you use template to create file,
 
 
 ## Install
 
 ```
-$ npm link
+$ npm install tpl-manager -g
 ```
 
 ## Example
@@ -46,10 +48,9 @@ Commands:
 ```
 
 
-## Guide
+## Thanks
 
-参考 [nrm](https://github.com/Pana/nrm) 实现一个模板管理的命令，方便将经常使用的文件存为模板，便于在项目中使用
-
+Inspired by [nrm](https://github.com/Pana/nrm), implement a template management command, which is convenient to save frequently used files as templates for easy use in projects
 
 
 
